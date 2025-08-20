@@ -11,5 +11,6 @@ public class Prob7 {
             
         }
         System.out.println("The amount after discount is: " + ba);
+        sc.close();
     }
 }
